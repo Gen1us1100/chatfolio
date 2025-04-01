@@ -1,0 +1,36 @@
+{
+  "build_id": "ddba1a2487489c971d44e5460b8ce72ad1c7d4a2",
+  "files": {
+    "main.js": [
+      "chunk-XWLUVH4X.js",
+      "chunk-7KZRW4CE.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-SUKGOB56.js",
+      "chunk-7KZRW4CE.js"
+    ],
+    "island-chatportfolio.js": [
+      "chunk-CRDE5WGZ.js",
+      "chunk-XWLUVH4X.js",
+      "chunk-SUKGOB56.js",
+      "chunk-7KZRW4CE.js"
+    ],
+    "island-counter.js": [
+      "chunk-CRDE5WGZ.js",
+      "chunk-XWLUVH4X.js",
+      "chunk-SUKGOB56.js",
+      "chunk-7KZRW4CE.js"
+    ],
+    "chunk-CRDE5WGZ.js": [
+      "chunk-XWLUVH4X.js",
+      "chunk-7KZRW4CE.js"
+    ],
+    "chunk-XWLUVH4X.js": [],
+    "chunk-SUKGOB56.js": [
+      "chunk-7KZRW4CE.js"
+    ],
+    "chunk-7KZRW4CE.js": [],
+    "metafile.json": []
+  }
+}

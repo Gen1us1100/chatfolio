@@ -1,0 +1,1 @@
+import{a as t,b as o}from"./chunk-CRDE5WGZ.js";import"./chunk-XWLUVH4X.js";import"./chunk-SUKGOB56.js";import"./chunk-7KZRW4CE.js";function u(n){return t("div",{class:"flex gap-8 py-6",children:[t(o,{onClick:()=>n.count.value-=1,children:"-1"}),t("p",{class:"text-3xl tabular-nums",children:n.count}),t(o,{onClick:()=>n.count.value+=1,children:"+1"})]})}export{u as default};
