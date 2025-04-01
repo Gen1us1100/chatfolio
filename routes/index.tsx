@@ -104,8 +104,13 @@ import ChatPortfolio from "../islands/ChatPortfolio.tsx";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-900">
-      <ChatPortfolio />
+    <div className="relative">
+      <div className="fixed inset-0 bg-[url('../static/background.png')] bg-cover bg-center"></div>
+      <div className="fixed inset-0 bg-black/50 backdrop-blur-md"></div>
+    
+    <div className="min-h-screen flex items-center justify-center relative z-10">
+        <ChatPortfolio />
+      </div>
     </div>
   );
 }
