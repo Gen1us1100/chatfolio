@@ -2,7 +2,7 @@ export default function Introduction() {
   return (
     <div className="flex items-center gap-4">
       <img
-        src="/profile.png"
+        src="/profile.jpeg"
         alt="Profile"
         className="w-16 h-16 rounded-full border-2 border-white"
       />

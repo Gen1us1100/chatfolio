@@ -5,8 +5,9 @@ export default function App({ Component }: PageProps) {
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>my-portfolio</title>
+        <title>chatfolio</title>
         <link rel="stylesheet" href="/styles.css" />
+        <link rel="icon" type="image/x-icon" href="/favicon.png"/>
       </head>
       <body>
         <Component />

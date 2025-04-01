@@ -19,6 +19,7 @@ export default function Projects() {
 
           </div>
         ))}
+      <p>Check out more projects at: <a href="https://github.com/Gen1us1100" target="blank" className="text-blue-500">Github</a></p>
       </div>
     </div>
   );
